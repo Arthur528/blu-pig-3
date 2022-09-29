@@ -19,7 +19,8 @@ so that I can create a strong password that provides greater security.
 
 ## Webpages
 
-
+URL:
+GitHub Repo: https://github.com/Arthur528/blu-pig-3
 
 ## Usage
 
