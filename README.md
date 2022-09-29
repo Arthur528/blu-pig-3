@@ -13,6 +13,9 @@ I want to randomly generate a password that meets certain criteria,
 so that I can create a strong password that provides greater security.
 
 ## Installation
+![Password gen](https://user-images.githubusercontent.com/113845043/193064537-425bd5e9-a200-4959-ac6c-2a4a04de089a.png)
+![password 2](https://user-images.githubusercontent.com/113845043/193064583-ce9d24e8-f65a-41cb-8402-e7eef98d32f3.png)
+![password 3](https://user-images.githubusercontent.com/113845043/193064615-1edc572a-d1d1-4e69-95e3-475d677cd42b.png)
 
 
 ## Usage
