@@ -28,9 +28,13 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 ## Credits
 
 https://stackoverflow.com/questions/59904757/random-password-generator-javascript-not-returning-password
+
 https://courses.bootcampspot.com/courses/2260/pages/02-dot-1-javascript?module_item_id=764068
+
 https://www.w3schools.io/file/github-readme-image/
+
 https://courses.bootcampspot.com/courses/2256/pages/3-dot-5-3-create-a-professional-project-readme?module_item_id=580831
+
 
 ## License
 
